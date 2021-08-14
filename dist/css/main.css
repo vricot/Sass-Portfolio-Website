@@ -13,7 +13,7 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: url("");
+  background: url("/dist/img/img1.png");
   background-size: cover;
 }
 
